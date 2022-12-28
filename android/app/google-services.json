@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294167654529",
+    "project_id": "pictures-f60bb",
+    "storage_bucket": "pictures-f60bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294167654529:android:b649afdf76e428369e9d80",
+        "android_client_info": {
+          "package_name": "com.example.pictures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294167654529-4pp8b1ohhdkicq6mkgnt6mgut8n0fihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB49gHWJpsCEus6DggpQRw-O7zHsDYYxFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294167654529-4pp8b1ohhdkicq6mkgnt6mgut8n0fihd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
